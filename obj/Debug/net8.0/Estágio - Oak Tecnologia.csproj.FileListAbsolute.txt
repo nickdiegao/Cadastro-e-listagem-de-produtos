@@ -1,0 +1,14 @@
+C:\Users\Ionar\source\repos\Estágio - Oak Tecnologia\Estágio - Oak Tecnologia\bin\Debug\net8.0\Estágio - Oak Tecnologia.exe
+C:\Users\Ionar\source\repos\Estágio - Oak Tecnologia\Estágio - Oak Tecnologia\bin\Debug\net8.0\Estágio - Oak Tecnologia.deps.json
+C:\Users\Ionar\source\repos\Estágio - Oak Tecnologia\Estágio - Oak Tecnologia\bin\Debug\net8.0\Estágio - Oak Tecnologia.runtimeconfig.json
+C:\Users\Ionar\source\repos\Estágio - Oak Tecnologia\Estágio - Oak Tecnologia\bin\Debug\net8.0\Estágio - Oak Tecnologia.dll
+C:\Users\Ionar\source\repos\Estágio - Oak Tecnologia\Estágio - Oak Tecnologia\bin\Debug\net8.0\Estágio - Oak Tecnologia.pdb
+C:\Users\Ionar\source\repos\Estágio - Oak Tecnologia\Estágio - Oak Tecnologia\obj\Debug\net8.0\Estágio - Oak Tecnologia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ionar\source\repos\Estágio - Oak Tecnologia\Estágio - Oak Tecnologia\obj\Debug\net8.0\Estágio - Oak Tecnologia.AssemblyInfoInputs.cache
+C:\Users\Ionar\source\repos\Estágio - Oak Tecnologia\Estágio - Oak Tecnologia\obj\Debug\net8.0\Estágio - Oak Tecnologia.AssemblyInfo.cs
+C:\Users\Ionar\source\repos\Estágio - Oak Tecnologia\Estágio - Oak Tecnologia\obj\Debug\net8.0\Estágio - Oak Tecnologia.csproj.CoreCompileInputs.cache
+C:\Users\Ionar\source\repos\Estágio - Oak Tecnologia\Estágio - Oak Tecnologia\obj\Debug\net8.0\Estágio - Oak Tecnologia.dll
+C:\Users\Ionar\source\repos\Estágio - Oak Tecnologia\Estágio - Oak Tecnologia\obj\Debug\net8.0\refint\Estágio - Oak Tecnologia.dll
+C:\Users\Ionar\source\repos\Estágio - Oak Tecnologia\Estágio - Oak Tecnologia\obj\Debug\net8.0\Estágio - Oak Tecnologia.pdb
+C:\Users\Ionar\source\repos\Estágio - Oak Tecnologia\Estágio - Oak Tecnologia\obj\Debug\net8.0\Estágio - Oak Tecnologia.genruntimeconfig.cache
+C:\Users\Ionar\source\repos\Estágio - Oak Tecnologia\Estágio - Oak Tecnologia\obj\Debug\net8.0\ref\Estágio - Oak Tecnologia.dll

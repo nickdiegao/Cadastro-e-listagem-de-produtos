@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Estágio - Oak Tecnologia/1.0.0": {
+        "runtime": {
+          "Estágio - Oak Tecnologia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Estágio - Oak Tecnologia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
